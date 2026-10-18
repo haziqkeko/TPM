@@ -5,13 +5,13 @@ TPM (Transit Predictive Maintenance) is an End-to-end Machine Learning pipeline 
 
 ##  Project Overview
 
-Unplanned vehicle breakdowns in public transit lead to service delays, higher repair costs, and operational inefficiencies. This project builds machine learning models to analyze vehicle telemetry and operational data to predict potential component failures before critical breakdowns occur[cite: 6].
+Unplanned vehicle breakdowns in public transit lead to service delays, higher repair costs, and operational inefficiencies. This project builds machine learning models to analyze vehicle telemetry and operational data to predict potential component failures before critical breakdowns occur.
 
 ### Key Objectives
-- **Predictive Analytics:** Train and evaluate classification models to forecast vehicle failure events[cite: 6].
-- **Model Comparison:** Benchmark multiple machine learning algorithms based on accuracy, run-time, and interpretability to justify the optimal selection[cite: 1, 2].
-- **ESG Alignment:** Support sustainable public infrastructure by optimizing maintenance schedules, reducing spare parts waste, and lowering operational emissions[cite: 5, 6].
-- **Interactive Web Interface:** Deploy a web dashboard hosted via GitHub Pages for monitoring fleet failure risk[cite: 2, 6, 9].
+- **Predictive Analytics:** Train and evaluate classification models to forecast vehicle failure events.
+- **Model Comparison:** Benchmark multiple machine learning algorithms based on accuracy, run-time, and interpretability to justify the optimal selection.
+- **ESG Alignment:** Support sustainable public infrastructure by optimizing maintenance schedules, reducing spare parts waste, and lowering operational emissions.
+- **Interactive Web Interface:** Deploy a web dashboard hosted via GitHub Pages for monitoring fleet failure risk.
 
 ---
 
